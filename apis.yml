@@ -24,6 +24,10 @@ tags:
   - Industrial
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/FMCTechnologies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fmc-technologies
   - type: Website
     url: https://www.technipfmc.com
   - type: LegacyWebsite
