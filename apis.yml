@@ -25,6 +25,8 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/fmc-technologies-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/FMCTechnologies
   - type: LinkedIn
