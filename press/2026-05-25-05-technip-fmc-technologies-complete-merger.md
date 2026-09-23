@@ -1,7 +1,9 @@
 ---
 title: Technip, FMC Technologies Complete Merger
 url: https://www.rigzone.com/news/technip_fmc_technologies_complete_merger-17-jan-2017-148145-article/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FMC Technologies" press release artificial intelligence'
 position: 5
 source: serpapi-google

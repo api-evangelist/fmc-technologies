@@ -1,7 +1,9 @@
 ---
 title: FMC Raises €100M to Set New Standards for Memory Chips
 url: https://www.hpcwire.com/off-the-wire/fmc-raises-e100m-to-set-new-standards-for-memory-chips/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FMC Technologies" press release artificial intelligence'
 position: 3
 source: serpapi-google

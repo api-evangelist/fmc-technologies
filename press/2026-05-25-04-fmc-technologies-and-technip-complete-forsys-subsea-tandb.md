@@ -1,7 +1,9 @@
 ---
 title: FMC Technologies and Technip Complete Forsys Subsea - T&B
 url: https://tbpetroleum.com.br/noticia/fmc-technologies-and-technip-complete-forsys-subsea/?page=2
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FMC Technologies" press release artificial intelligence'
 position: 4
 source: serpapi-google

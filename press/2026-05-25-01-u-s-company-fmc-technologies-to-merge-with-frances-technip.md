@@ -1,7 +1,9 @@
 ---
 title: U.S. Company FMC Technologies to Merge With France's Technip
 url: https://www.taxnotes.com/tax-notes-today-federal/cross-border-mergers-and-acquisitions/us-company-fmc-technologies-merge-frances-technip/2016/05/23/g5g5
-date: '2026-05-25'
+published: '2016-05-23'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"FMC Technologies" press release artificial intelligence'
 position: 1
 source: serpapi-google

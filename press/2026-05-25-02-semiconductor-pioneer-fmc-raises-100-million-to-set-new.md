@@ -1,7 +1,9 @@
 ---
 title: Semiconductor pioneer FMC raises €100 million to set new ...
 url: https://www.prnewswire.com/news-releases/semiconductor-pioneer-fmc-raises-100-million-to-set-new-standards-for-memory-chips-302614406.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"FMC Technologies" press release artificial intelligence'
 position: 2
 source: serpapi-google
