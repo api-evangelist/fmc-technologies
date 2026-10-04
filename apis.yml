@@ -64,3 +64,9 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: "TechnipFMC"
+x-relationship: merger
+x-acquired-date: '2017-01'
+x-status-source: "https://www.businesswire.com/news/home/20170116005797/en/TechnipFMC-Begins-Operations-as-a-Combined-Company-after-Completing-Merger-of-FMC-Technologies-and-Technip"
+x-status-evidence: "FMC Technologies and Technip completed their merger on 2017-01-16 as TechnipFMC (NYSE: FTI), not in the catalog; fmctechnologies.com no longer resolves (roadmap#812)"
